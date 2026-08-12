@@ -26,6 +26,9 @@ ProcureMind introduces a state-of-the-art, two-pillar agentic architecture to au
 1. **Model Cascading (`lemony-ai/cascadeflow`):** Automatically routes low-ambiguity tasks to fast, low-cost models (`gpt-4o-mini`). When ambiguity exceeds `40/100` or compliance/sovereignty rules are violated, it escalates to heavy reasoning models (`gpt-4o`) for synthesis and final judgment. This yields up to **84%+ cost savings**.
 2. **Institutional Memory (`vectorize-io/hindsight`):** Indexes and recalls past vendor evaluations. It instantly flags if a new vendor shares the same compliance pitfalls (such as US-East cloud storage violations) that led to past historical rejections.
 
+
+![ProcureMind Vendor Y Rejection Evaluation](./public/images/Screenshot%202026-08-12%20160939.png)
+
 ---
 
 ## System Architecture
