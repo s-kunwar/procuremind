@@ -1,0 +1,6 @@
+{
+  "/api/agent/evaluate/route": "app/api/agent/evaluate/route.js",
+  "/api/agent/qa/route": "app/api/agent/qa/route.js",
+  "/api/memory/query/route": "app/api/memory/query/route.js",
+  "/page": "app/page.js"
+}
