@@ -73,6 +73,14 @@ graph TD
 | **ProcureMind Cascade** | **Cascaded** | **~240ms** | **$2.30 (84% Saved)** | **100% (Guaranteed)** |
 
 ---
+---
+
+### ⚠️ Note
+
+The execution latency (ms) and API cost ($) figures displayed in the UI prototype are **simulated benchmarks** computed locally to demonstrate the route-escalation workflow without incurring active API billing. 
+
+However, the architecture logic—routing routine tasks to Tier 1 (`gpt-4o-mini`) and reserving Tier 2 (`gpt-4o`) for high-ambiguity edge cases—reflects real-world model cascading paradigms, which typically yield **80%–90% cost savings** in production deployments.
+
 
 ## Getting Started
 
