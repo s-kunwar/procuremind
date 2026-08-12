@@ -27,7 +27,7 @@ ProcureMind introduces a state-of-the-art, two-pillar agentic architecture to au
 2. **Institutional Memory (`vectorize-io/hindsight`):** Indexes and recalls past vendor evaluations. It instantly flags if a new vendor shares the same compliance pitfalls (such as US-East cloud storage violations) that led to past historical rejections.
 
 
-![ProcureMind Vendor Y Rejection Evaluation](./public/images/Screenshot%202026-08-12%20160939.png)
+![ProcureMind Vendor Y Rejection Evaluation](./public/images/ss2.png)
 
 ---
 
